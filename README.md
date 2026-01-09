@@ -72,7 +72,7 @@ LIMIT 10
 
 Result:
 
-![Top ten paying jobs](assets\Top_10_paying_jobs.png)
+![Top ten paying jobs](assets/Top_10_paying_jobs.png)
 *Graph visualizing the outcome was created by Perplexity AI using my results.*
 
 **3 key takeaways for Alice:**
@@ -147,7 +147,7 @@ ORDER BY
         top_10.salary_year_avg DESC
 ```
 Result:
-![Skills demanded by top paid jobs](assets\skills_demanded_by_top_paying_remote_jobs_DA.png)
+![Skills demanded by top paid jobs](assets/skills_demanded_by_top_paying_remote_jobs_DA.png)
 *Graph visualizing the outcome was created by Perplexity AI using my results.*
 
 **3 Key Takeaway for Alice:**
@@ -267,7 +267,7 @@ LIMIT 20
 ```
 Result:
 
-![Top 20 highest paid skills](assets\Top_20_highest_paid_skills_DA.png)
+![Top 20 highest paid skills](assets/Top_20_highest_paid_skills_DA.png)
 
 *Graph visualizing the outcome was created by Perplexity AI using my results.
 *
