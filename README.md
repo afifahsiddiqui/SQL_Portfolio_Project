@@ -72,7 +72,7 @@ LIMIT 10
 
 Result:
 
-![Top ten paying jobs](D:\Work\Personal Projects\SQL_Portfolio_Project\assets\Top_10_paying_jobs.png)
+![Top ten paying jobs](assets\Top_10_paying_jobs.png)
 *Graph visualizing the outcome was created by Perplexity AI using my results.*
 
 **3 key takeaways for Alice:**
