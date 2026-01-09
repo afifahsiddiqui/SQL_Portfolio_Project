@@ -1,4 +1,4 @@
-/* Find the top 20 highest paying skills for Data Analyst roles.*/
+-- Find the top 20 highest paying skills for Data Analyst roles.
 
 
 SELECT

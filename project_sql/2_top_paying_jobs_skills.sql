@@ -1,5 +1,4 @@
-/* Find the skills required by these jobs to understand which skills
-are most valued in the industry*/
+-- Find the skills required by these jobs to understand which skills are most valued in the industry
 
 WITH top_10_data_analyst_jobs AS (
             SELECT

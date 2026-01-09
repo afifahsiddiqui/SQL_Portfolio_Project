@@ -1,6 +1,4 @@
-/* Find the most highly demanded skills for Data analysts 
-irrespective of job location and schedule type 
-*/
+-- Find the most highly demanded skills for Data analysts irrespective of job location and schedule type
 
 SELECT
         skills_dim.skills,

@@ -1,6 +1,4 @@
-/* Find the most high demand and high salary skills for DAs in remote jobs. 
-This info is critical for career development and job security.
-*/
+-- Find the most high demand and high salary skills for DAs in remote jobs. This info is critical for career development and job security.
 
 
 SELECT

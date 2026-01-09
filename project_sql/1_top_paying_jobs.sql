@@ -1,5 +1,4 @@
-/*
-Find the top 10 paying remote jobs for Data Analysts */ 
+-- Find the top 10 paying remote jobs for Data Analysts 
 
 SELECT
         jpf.job_id,
