@@ -1,14 +1,5 @@
-/* Find the most highly demanded skills for Data analysts
+/* Find the most highly demanded skills for Data analysts 
 irrespective of job location and schedule type 
-
-First, how would I solve this?
-what we finally need is 
-- skills demanded for data analyst jobs
-        - find data analyst jobs
-        - skills for data analyst job
-        - count skills
-- group the skills by count in desc order
-
 */
 
 SELECT
@@ -30,3 +21,32 @@ GROUP BY
 ORDER BY
         skill_demand_count DESC
 LIMIT 5
+
+/*
+
+Results:
+
+[
+  {
+    "skills": "sql",
+    "skill_demand_count": "1695"
+  },
+  {
+    "skills": "excel",
+    "skill_demand_count": "1294"
+  },
+  {
+    "skills": "python",
+    "skill_demand_count": "988"
+  },
+  {
+    "skills": "tableau",
+    "skill_demand_count": "968"
+  },
+  {
+    "skills": "r",
+    "skill_demand_count": "565"
+  }
+]
+
+*/
